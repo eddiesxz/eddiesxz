@@ -1,5 +1,5 @@
 
-<h1 text-size = "130px" align = "center" >Bem vindo 🖤</h1> 
+<h1  text-size = "130px" align = "center" >Bem vindo 🖤</h1> 
  <br>
  <br>
  <br>
