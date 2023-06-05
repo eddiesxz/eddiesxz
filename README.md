@@ -1,3 +1,5 @@
+<head>  <link rel="stylesheet" href="style.css"> </head>
+
 
 <h1 >Bem vindo 🖤</h1> 
  <br>
