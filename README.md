@@ -31,7 +31,7 @@
 
 </p>
 
-<div style="display: inline-block; vertical-align: top">
+<div style="display: inline-block; align: center>
     <img width="310" height="300" src="https://i.pinimg.com/originals/ab/0e/ce/ab0ecec3805f77032409f3885642a95a.gif">
 </div> 
 <div style="display: inline-block;" >
